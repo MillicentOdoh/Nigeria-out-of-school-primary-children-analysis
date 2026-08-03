@@ -1,4 +1,4 @@
-# Nigeria-out-of-school-primary-children-analysis
+<img width="606" height="337" alt="Dashboard" src="https://github.com/user-attachments/assets/4d1bce17-d412-44a3-a622-0de34d194bf6" />
 # 📊 Analysis of Out-of-School Primary School Children in Nigeria by Region
 
 ## 📌 Project Overview
@@ -79,8 +79,8 @@ The dataset contains information for all 36 Nigerian states and the Federal Capi
 
 Example:
 
-![Dashboard]( width="606" height="337" alt="Dashboard" src="https://github.com/user-attachments/assets/bac7878d-1865-49fc-9afb-20dab4dfef3f" />
-d.png)
+![Dashboard](![Uploading Dashboard.png…])
+
 
 ---
 
@@ -107,6 +107,5 @@ Data Analyst | Power BI | Excel | SQL
 
 GitHub: https://github.com/MillicentOdoh
 
-LinkedIn: www.linkedin.com/in/
-millicentodoh
+LinkedIn: www.linkedin.com/in/millicentodoh
 
