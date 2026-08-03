@@ -1,4 +1,4 @@
-<img width="606" height="337" alt="Dashboard" src="https://github.com/user-attachments/assets/4d1bce17-d412-44a3-a622-0de34d194bf6" />
+
 # 📊 Analysis of Out-of-School Primary School Children in Nigeria by Region
 
 ## 📌 Project Overview
@@ -75,12 +75,7 @@ The dataset contains information for all 36 Nigerian states and the Federal Capi
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your Power BI dashboard here.
-
-Example:
-
-![Dashboard](![Uploading Dashboard.png…])
-
+<img width="606" height="337" alt="Dashboard" src="https://github.com/user-attachments/assets/327144de-cd9b-4873-8f4f-4c29dd4bef8c" />
 
 ---
 
