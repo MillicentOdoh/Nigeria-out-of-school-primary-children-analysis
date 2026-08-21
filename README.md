@@ -74,8 +74,9 @@ The dataset contains information for all 36 Nigerian states and the Federal Capi
 ---
 
 ## 📷 Dashboard Preview
+<img width="657" height="335" alt="Dashboard" src="https://github.com/user-attachments/assets/7f694777-14ab-4115-9499-2d1c730832a4" />
 
-<img width="606" height="337" alt="Dashboard" src="https://github.com/user-attachments/assets/327144de-cd9b-4873-8f4f-4c29dd4bef8c" />
+
 
 ---
 
